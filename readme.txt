@@ -22,7 +22,7 @@ Pull requests are welcome :-)
 
 == Installation ==
 
-* Upload the folder `email-cop` to the `/wp-content/plugins/` directory
+* Upload the folder `object-cache-off-alert` to the `/wp-content/plugins/` directory
 * Activate the plugin through the 'Plugins' menu in WordPress
 
 == Frequently Asked Questions ==
